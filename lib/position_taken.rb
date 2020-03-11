@@ -11,5 +11,5 @@ def position_taken?(board, index)
     elsif board[index] != "X" || "O"
       false
     end
-    
+
 end
